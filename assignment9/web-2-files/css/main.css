@@ -1,0 +1,112 @@
+.body
+{
+    margin: 0px;
+}
+
+.site-banner{
+    background-color: black;
+    text-align: center;
+    padding-top: 10px;
+    padding-bottom: 8px;
+}
+
+.photo{
+    color: #666666;
+    size: 14px;
+    width: 100%;
+    margin-top: 0px;
+    line-height: 18px;
+}
+
+.photo-caption{
+    margin-top: 0px;
+    line-height: 18px;
+    color: #666666;
+    size: 14px;
+    font-family: 'Franklin Light', 'Times New Roman', 'Arial';
+}
+
+.article{
+    max-width: 1200px;
+    margin: 400px;
+    margin-top: 0px;
+    margin-bottom: 0px;
+    padding-top: 0px;
+    padding-bottom: 0px;
+    padding-left: 10px;
+    padding-right: 10px;
+}
+
+.logo{
+    width: 188px;
+}
+
+
+.story-header{
+    font-family: 'Franklin Light', 'Times New Roman', 'Arial';
+
+}
+
+.news-section{
+    font-family: 'Franklin Bold', 'Times New Roman', 'Arial';
+    font-size:  14px;
+    margin-top: 32px;
+}
+
+.h1{
+    font-family: 'Postoni', 'Times New Roman', 'Arial';
+    font-size: 46px;
+    margin-bottom: 0px;
+}
+
+.byline{
+    font-size: 16px;
+    margin-bottom: 2px;
+}
+
+.publish-date{
+    font-size: 14px;
+    margin-top: 0px;
+    color: #666666;
+}
+
+.story-body{
+    font-family: 'Georgia', 'Times New Roman', 'Arial';
+    font-size: 20px;
+    line-height: 32px;
+    max-width: 700px;
+}
+
+.story-footer{
+    font-family: 'Franklin Bold', 'Times New Roman', 'Arial';
+    font-size: 16px;
+    max-width: 700px;
+}
+
+.h2{
+    font-family: 'Postoni', 'Times New Roman', 'Arial';
+    font-size: 28px;
+    margin-bottom: 0px; 
+}
+
+a{
+color: black;
+text-decoration: underline;
+}
+
+a:hover{
+    color: gray;
+    text-decoration: none;
+}
+
+.h3{
+    font-family: 'Franklin Bold', 'Times New Roman', 'Arial';
+    font-weight: normal;
+}
+
+.footer-info{
+    size: 14px;
+    font-family: 'Franklin Light', 'Times New Roman', 'Arial';
+    padding-bottom: 10px;
+    color: #e9e9e9;
+}
