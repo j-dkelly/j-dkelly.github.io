@@ -1,0 +1,118 @@
+body {
+  margin: 10px;
+}
+
+
+.headline{
+  padding-left: 180px;
+  padding-right: 180px;
+}
+
+.container{
+  padding-left: 200px;
+  padding-right: 200px;
+}
+
+nav {
+  border-top: 8px solid black;
+  border-bottom: 1px solid black;
+  padding: 20px;
+  text-align: center;
+}
+
+.map1{
+  max-width: 1200px;
+  text-align: center;
+  padding-left: 300px;
+}
+
+.logo {
+  width: 330px;
+}
+
+.logo1{
+  max-width: 64px;
+}
+
+.sitemotto {
+  color: #de2f23;
+  font-family: Basier, Arial, sans-serif;
+  font-size: 14px;
+  text-transform: uppercase;
+  letter-spacing: 1px;
+  font-weight: bold;
+}
+
+p{
+font-family: Georgia, 'Times New Roman', Times, serif
+}
+
+header {
+    font-family: Basier, Arial, sans-serif;
+    font-size: 20px;
+    color: #717171;
+}
+
+h1 {
+  font-size: 46px;
+}
+
+.byline {
+  font-weight: bold;
+}
+
+
+.afdc-stations{
+  min-width: 400px
+}
+
+.tdpad {
+  padding: 15px;
+}
+
+article > p {
+  font-family: Pensum, "Times New Roman", serif;
+  font-size: 20px;
+}
+
+.story_image {
+  width: 450px;
+  padding-left: 400 px;
+}
+
+.story_image1{
+  max-width: 400px;
+  padding-left: 10px;
+}
+
+.caption {
+  color: gray;
+  font-size: 14px;
+  margin-top: 5px;
+}
+
+.caption1{
+  color: gray;
+  font-size: 14px;
+  margin-top: 5px;
+  padding-left: 10px;
+}
+
+footer {
+  margin-top: 30px;
+  font-family: Basier, Arial, sans-serif;
+}
+
+footer > p {
+  font-size: 14px;
+  color: #666;
+}
+
+a {
+  color: black;
+}
+
+a:hover {
+  color: #717171;
+  text-decoration-color: #ffcb04;
+}
