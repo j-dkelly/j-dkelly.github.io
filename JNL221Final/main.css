@@ -20,10 +20,15 @@ nav {
   text-align: center;
 }
 
+.navbar-brand{
+  font-family: Kaiti SC, 'Times New Roman', Times, serif;
+}
+
 .map1{
   max-width: 1200px;
   text-align: center;
   padding-left: 300px;
+  min-width: none;
 }
 
 .logo {
@@ -78,11 +83,13 @@ article > p {
 .story_image {
   width: 450px;
   padding-left: 400 px;
+  min-width: none;
 }
 
 .story_image1{
   max-width: 400px;
   padding-left: 10px;
+  min-width: 0px;
 }
 
 .caption {
